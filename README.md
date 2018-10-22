@@ -17,7 +17,7 @@ To add a plugin now you only need to go to `~/.vim/bundle/` and git clone the pl
 In your terminal  
 ```bash
 cd ~/.vim/bundle/
-git clone https://turukthecook/etna-header
+git clone https://github.com/turukthecook/etna-header
 ```  
 
 3. Configure the plugin etna-header
